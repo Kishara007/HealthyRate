@@ -9,23 +9,13 @@ This system was also developed for the assignment purpose in our university and 
 
 <p>◾ Project Guide Video - https://youtu.be/SkpT3uLpLBk </P>
  <br> <br>
-![1](https://user-images.githubusercontent.com/96550083/151993611-36761785-88cc-49bc-ac2b-af8349a82403.png)
- <br> <br>
-![2](https://user-images.githubusercontent.com/96550083/151993728-6b64529a-9689-457c-893a-e8886682bc67.png)
- <br> <br>
-![3](https://user-images.githubusercontent.com/96550083/151993759-dd7f424e-cf29-49c5-87fd-9604e84e9b3a.jpg)
- <br> <br>
-![4](https://user-images.githubusercontent.com/96550083/151993804-f535ad72-e4e9-4bea-a7fc-55c7b6b1d5f9.jpg)
- <br> <br>
-![5](https://user-images.githubusercontent.com/96550083/151993824-0c7be8dc-550b-4375-bbed-d89221279057.jpg)
- <br> <br>
-![6](https://user-images.githubusercontent.com/96550083/151993844-c0ed0c41-6ecf-42e0-87a7-9be4da0055a0.jpg)
- <br> <br>
-![7](https://user-images.githubusercontent.com/96550083/151993888-a3b4846e-2ffd-40f6-8d99-53fed4f94b60.jpg)
- <br> <br>
-![8](https://user-images.githubusercontent.com/96550083/151993904-4753cb8c-282c-4d1e-9afb-d76d19d4df5e.jpg)
- <br> <br>
-![9](https://user-images.githubusercontent.com/96550083/151993918-04594afc-bacb-489a-b81b-f755128f616d.jpg)
- <br> <br>
-![10](https://user-images.githubusercontent.com/96550083/151993942-c1fc28b9-6204-4e95-996d-398bdca549d3.jpg)
- <br> <br>
+ 
+![Desktop - 1 (1)](https://user-images.githubusercontent.com/96550083/152018473-489abbc5-fd60-4755-a687-5a104785c518.png)
+<br> <br>
+![Desktop - 1 (2)](https://user-images.githubusercontent.com/96550083/152018495-0f04445f-1ee7-4e7a-a735-2a4f83591d37.png)
+<br> <br>
+![Desktop - 1 (3)](https://user-images.githubusercontent.com/96550083/152018514-31064437-be04-41c7-bd19-cb6a1b25ca77.png)
+<br> <br>
+![Desktop - 1 (4)](https://user-images.githubusercontent.com/96550083/152018531-e670a97d-9ce8-4b35-9829-69c81c48a48c.png)
+<br> <br>
+![Desktop - 1 (5)](https://user-images.githubusercontent.com/96550083/152018558-692bfd2c-eb78-4998-8de5-46382fa77906.png)
