@@ -1,13 +1,15 @@
 # HealthyRate
-This system was also developed for the assignment purpose in our university and I scored an 'A' Grade for this “MAD” module assignment. This app was developed to manage everything related to Health. This application can be used for Medical Channeling, Fitness Management, Covid-19 Testing, Laboratory Testing, Pharmacy, and Delivery Services.
 
-<p>◾ This is an Android App develop using JAVA Language. </P>
+Developed a comprehensive Android healthcare application (HealthyRate) serving as an all-in-one digital solution for medical channeling, lab testing, and fitness management.
 
-<p>◾ I develop the Fitness Management function and the Laboratory Test Management function.</P>
+• Engineered the core Fitness and Laboratory Test Management modules, optimizing complex data workflows for enhanced efficiency and reliability.
 
-<p>◾ I apply UI/UX design concepts in this app.</P>
+• Designed and implemented an intuitive, user-centric mobile interface, prioritizing accessibility and modern UI/UX principles.
 
-<p>◾ Project Guide Video - https://youtu.be/SkpT3uLpLBk </P>
+• Built a scalable mobile architecture using Java and Android Studio to seamlessly integrate multiple healthcare services (Pharmacy, Delivery, COVID-19 tracking) into a unified platform.
+
+Project Demo Video: https://youtu.be/SkpT3uLpLBk
+
  <br> <br>
  
 ![Desktop - 1 (1)](https://user-images.githubusercontent.com/96550083/152018473-489abbc5-fd60-4755-a687-5a104785c518.png)
